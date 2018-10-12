@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView layoutX="32.0" layoutY="31.0" prefHeight="291.0" prefWidth="538.0">
+        <columns>
+          <TableColumn prefWidth="264.0" text="Entry Data" />
+          <TableColumn prefWidth="268.0" text="Entry Message" />
+        </columns>
+      </TableView>
+      <Button layoutX="32.0" layoutY="344.0" mnemonicParsing="false" onAction="#backButtonClicked" text="Back" />
+   </children>
+</Pane>

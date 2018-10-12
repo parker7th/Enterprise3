@@ -1,0 +1,545 @@
+19:45:01.259 INFO  Assignment1.BookListViewController : double clicked 
+19:45:04.568 INFO  Assignment1.bookDetailController : Save clicked
+19:45:21.625 INFO  Assignment1.bookDetailController : Save clicked
+16:17:44.598 INFO  Assignment1.BookListViewController : double clicked 
+16:18:30.129 INFO  Assignment1.bookDetailController : Save clicked
+10:48:13.299 INFO  Assignment1.BookListViewController : double clicked 
+13:59:42.921 INFO  Assignment1.BookListViewController : double clicked 
+13:59:44.901 INFO  Assignment1.bookDetailController : Save clicked
+11:06:38.943 INFO  Assignment1.BookListViewController : double clicked 
+11:06:41.477 INFO  Assignment1.bookDetailController : Save clicked
+11:10:43.557 INFO  Assignment1.BookListViewController : double clicked 
+11:26:19.324 INFO  Assignment1.BookListViewController : double clicked 
+11:26:21.286 INFO  Assignment1.bookDetailController : Save clicked
+11:44:15.454 INFO  Assignment1.BookListViewController : double clicked 
+11:44:17.623 INFO  Assignment1.bookDetailController : Save clicked
+12:07:49.190 INFO  book.BookListViewController : double clicked 
+12:07:50.497 INFO  book.bookDetailController : Save clicked
+13:08:26.423 FATAL app.Launcher : Error: cannot connect to
+13:37:01.380 FATAL app.Launcher : Error: cannot connect to database
+13:38:39.902 FATAL app.Launcher : Error: cannot connect to database
+13:40:12.859 FATAL app.Launcher : Error: cannot connect to database
+12:59:58.310 FATAL app.Launcher : Error: cannot connect to database
+13:00:05.038 FATAL app.Launcher : Error: cannot connect to database
+14:18:36.811 FATAL app.Launcher : Error: cannot connect to database
+14:19:39.177 FATAL app.Launcher : Error: cannot connect to database
+14:23:55.360 FATAL app.Launcher : Error: cannot connect to database
+14:30:28.446 FATAL app.Launcher : Error: cannot connect to database
+14:32:01.012 INFO  app.Launcher : Connection has been made
+14:37:22.481 INFO  app.Launcher : Connection has been made
+14:37:25.655 INFO  app.Launcher : Connection has been closed
+14:38:22.641 INFO  app.Launcher : Connection has been made
+14:38:32.265 INFO  book.BookListViewController : double clicked 
+14:39:05.479 INFO  app.Launcher : Connection has been closed
+15:01:31.383 INFO  app.Launcher : Connection has been made
+15:01:35.853 INFO  book.BookListViewController : double clicked 
+15:01:37.486 INFO  book.bookDetailController : Save clicked
+15:01:39.623 INFO  app.Launcher : Connection has been closed
+11:13:37.119 INFO  app.Launcher : Connection has been made
+11:14:17.777 INFO  app.Launcher : Connection has been closed
+12:36:07.888 INFO  app.Launcher : Connection has been made
+12:36:13.616 INFO  book.BookListViewController : double clicked 
+12:57:35.348 INFO  app.Launcher : Connection has been closed
+16:19:23.003 INFO  app.Launcher : Connection has been made
+11:06:14.273 INFO  app.Launcher : Connection has been made
+11:13:54.633 INFO  app.Launcher : Connection has been made
+11:15:14.711 INFO  app.Launcher : Connection has been closed
+11:15:17.687 INFO  app.Launcher : Connection has been closed
+11:26:39.742 INFO  app.Launcher : Connection has been made
+11:26:44.846 INFO  app.Launcher : Connection has been closed
+11:27:34.057 INFO  app.Launcher : Connection has been made
+11:27:38.729 INFO  app.Launcher : Connection has been closed
+11:27:59.649 INFO  app.Launcher : Connection has been made
+11:29:14.477 INFO  app.Launcher : Connection has been made
+11:36:00.963 INFO  app.Launcher : Connection has been closed
+11:36:03.178 INFO  app.Launcher : Connection has been closed
+11:36:44.505 INFO  app.Launcher : Connection has been made
+11:36:47.902 INFO  app.Launcher : Connection has been closed
+11:36:56.412 INFO  app.Launcher : Connection has been made
+11:37:41.071 INFO  app.Launcher : Connection has been made
+11:38:29.253 INFO  app.Launcher : Connection has been closed
+11:38:30.221 INFO  app.Launcher : Connection has been closed
+11:38:33.023 INFO  app.Launcher : Connection has been made
+11:39:43.007 INFO  app.Launcher : Connection has been closed
+11:51:46.630 INFO  app.Launcher : Connection has been made
+12:00:45.387 INFO  app.Launcher : Connection has been made
+12:00:47.469 INFO  app.Launcher : Connection has been closed
+12:07:03.628 INFO  app.Launcher : Connection has been closed
+12:37:50.837 INFO  app.Launcher : Connection has been made
+12:38:34.023 INFO  book.BookListViewController : double clicked 
+12:40:20.360 INFO  app.Launcher : Connection has been closed
+12:47:38.285 INFO  app.Launcher : Connection has been made
+12:47:53.264 INFO  app.Launcher : Connection has been closed
+13:19:13.832 INFO  app.Launcher : Connection has been made
+13:19:49.819 INFO  app.Launcher : Connection has been closed
+13:19:52.345 INFO  app.Launcher : Connection has been made
+13:19:56.715 INFO  book.BookListViewController : double clicked 
+13:21:11.920 INFO  app.Launcher : Connection has been made
+13:21:23.925 INFO  app.Launcher : Connection has been closed
+13:28:45.233 INFO  app.Launcher : Connection has been closed
+16:41:41.867 INFO  app.Launcher : Connection has been made
+16:41:47.948 INFO  book.BookListViewController : double clicked 
+16:41:49.983 INFO  book.bookDetailController : Save clicked
+16:41:53.043 INFO  app.Launcher : Connection has been closed
+16:50:43.720 INFO  app.Launcher : Connection has been made
+16:50:49.667 INFO  book.BookListViewController : double clicked 
+16:51:00.915 INFO  app.Launcher : Connection has been closed
+16:51:19.838 INFO  app.Launcher : Connection has been made
+16:51:25.293 INFO  book.BookListViewController : double clicked 
+16:51:51.836 INFO  book.bookDetailController : Save clicked
+16:51:54.662 INFO  app.Launcher : Connection has been closed
+12:57:35.547 INFO  app.Launcher : Connection has been made
+12:57:50.462 INFO  app.Launcher : Connection has been closed
+13:02:31.372 INFO  app.Launcher : Connection has been made
+13:02:50.766 INFO  book.BookListViewController : double clicked 
+13:02:57.709 INFO  app.Launcher : Connection has been closed
+13:25:56.053 INFO  app.Launcher : Connection has been made
+13:26:32.921 INFO  app.Launcher : Connection has been closed
+13:26:35.943 INFO  app.Launcher : Connection has been made
+13:26:44.691 INFO  app.Launcher : Connection has been closed
+13:30:44.138 INFO  app.Launcher : Connection has been made
+13:30:59.649 INFO  app.Launcher : Connection has been closed
+14:05:23.846 INFO  app.Launcher : Connection has been made
+14:11:48.927 INFO  app.Launcher : Connection has been closed
+14:36:40.819 INFO  app.Launcher : Connection has been made
+14:40:22.580 INFO  app.Launcher : Connection has been made
+14:40:36.213 INFO  book.BookListViewController : double clicked 
+14:40:38.845 INFO  app.Launcher : Connection has been closed
+14:41:17.849 INFO  app.Launcher : Connection has been closed
+14:41:20.830 INFO  app.Launcher : Connection has been made
+14:41:24.068 INFO  book.BookListViewController : double clicked 
+14:59:42.920 INFO  book.BookListViewController : double clicked 
+15:06:58.859 INFO  app.Launcher : Connection has been closed
+15:29:02.607 INFO  app.Launcher : Connection has been made
+15:29:10.427 INFO  book.BookListViewController : double clicked 
+15:47:03.097 INFO  app.Launcher : Connection has been made
+15:47:10.365 INFO  app.Launcher : Connection has been closed
+16:10:32.602 INFO  app.Launcher : Connection has been closed
+16:10:47.519 INFO  app.Launcher : Connection has been made
+16:15:00.179 INFO  app.Launcher : Connection has been closed
+16:15:08.378 INFO  app.Launcher : Connection has been made
+16:15:11.816 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:15:34.750 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:15:37.464 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:15:40.552 INFO  app.Launcher : Connection has been closed
+16:15:44.874 INFO  app.Launcher : Connection has been made
+16:15:47.362 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:15:52.554 INFO  app.Launcher : Connection has been closed
+16:16:17.171 INFO  app.Launcher : Connection has been made
+16:16:19.293 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:16:22.292 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:16:23.884 INFO  app.Launcher : Connection has been closed
+16:16:29.763 INFO  app.Launcher : Connection has been made
+16:16:36.376 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:16:38.638 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:16:40.630 INFO  app.Launcher : Connection has been closed
+16:17:02.137 INFO  app.Launcher : Connection has been made
+16:17:03.987 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:17:53.690 INFO  app.Launcher : Connection has been made
+16:17:57.026 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:18:29.784 INFO  app.Launcher : Connection has been made
+16:18:33.169 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:19:38.473 INFO  app.Launcher : Connection has been closed
+16:19:39.921 INFO  app.Launcher : Connection has been closed
+16:19:41.353 INFO  app.Launcher : Connection has been closed
+16:19:57.888 INFO  app.Launcher : Connection has been made
+16:20:02.557 ERROR menu.changeScreen : An error has occured in the Book Page screen.
+16:20:06.186 INFO  app.Launcher : Connection has been closed
+16:20:12.363 INFO  app.Launcher : Connection has been made
+16:40:35.674 INFO  app.Launcher : Connection has been closed
+13:33:29.189 INFO  app.Launcher : Connection has been made
+13:33:31.644 INFO  app.Launcher : Connection has been closed
+13:33:38.631 INFO  app.Launcher : Connection has been made
+13:34:13.626 INFO  app.Launcher : Connection has been closed
+13:35:48.605 INFO  app.Launcher : Connection has been made
+13:35:56.138 INFO  book.BookListViewController : double clicked 
+13:36:41.750 INFO  app.Launcher : Connection has been closed
+15:08:42.353 INFO  app.Launcher : Connection has been made
+15:08:48.891 INFO  app.Launcher : Connection has been closed
+15:19:46.451 INFO  app.Launcher : Connection has been made
+15:20:05.365 INFO  book.BookListViewController : double clicked 
+15:36:28.079 INFO  app.Launcher : Connection has been made
+15:36:35.045 INFO  book.BookListViewController : double clicked 
+15:37:17.029 INFO  app.Launcher : Connection has been made
+15:37:21.253 INFO  book.BookListViewController : double clicked 
+15:37:41.906 INFO  book.BookListViewController : double clicked 
+15:37:52.579 INFO  book.BookListViewController : double clicked 
+15:37:56.393 INFO  book.bookDetailController : Save clicked
+15:38:00.437 INFO  app.Launcher : Connection has been closed
+15:38:03.192 INFO  app.Launcher : Connection has been made
+15:38:07.878 INFO  app.Launcher : Connection has been closed
+15:38:36.045 INFO  app.Launcher : Connection has been made
+15:38:40.232 INFO  book.BookListViewController : double clicked 
+15:38:43.174 INFO  book.BookListViewController : double clicked 
+15:38:46.930 INFO  app.Launcher : Connection has been closed
+15:42:35.104 INFO  app.Launcher : Connection has been closed
+15:42:36.713 INFO  app.Launcher : Connection has been closed
+16:19:48.744 INFO  app.Launcher : Connection has been made
+16:19:54.537 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+16:19:54.537 INFO  book.BookListViewController : double clicked 
+16:20:03.039 INFO  app.Launcher : Connection has been closed
+16:24:58.995 INFO  app.Launcher : Connection has been made
+16:25:02.406 INFO  book.BookListViewController : double clicked 
+16:26:50.077 INFO  app.Launcher : Connection has been closed
+17:05:58.407 INFO  app.Launcher : Connection has been made
+17:08:48.803 INFO  app.Launcher : Connection has been made
+17:08:55.735 INFO  book.BookListViewController : double clicked 
+17:08:57.967 INFO  book.bookDetailController : Save clicked
+17:09:00.074 INFO  app.Launcher : Connection has been closed
+17:09:01.744 INFO  app.Launcher : Connection has been closed
+13:01:22.975 FATAL app.Launcher : Error: cannot connect to database
+13:03:53.861 INFO  app.Launcher : Connection has been made
+13:04:06.598 INFO  book.BookListViewController : double clicked 
+13:10:03.904 INFO  book.BookListViewController : double clicked 
+13:10:13.214 INFO  book.BookListViewController : double clicked 
+13:10:21.304 INFO  app.Launcher : Connection has been closed
+13:12:51.544 INFO  app.Launcher : Connection has been made
+13:16:26.490 INFO  app.Launcher : Connection has been closed
+13:16:31.113 INFO  app.Launcher : Connection has been made
+13:16:35.004 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:16:35.005 INFO  book.BookListViewController : double clicked 
+13:17:04.115 INFO  app.Launcher : Connection has been closed
+13:17:06.394 INFO  app.Launcher : Connection has been made
+13:17:10.280 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:17:10.281 INFO  book.BookListViewController : double clicked 
+13:17:51.999 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:17:51.999 INFO  book.BookListViewController : double clicked 
+13:24:52.404 INFO  app.Launcher : Connection has been closed
+13:26:18.089 INFO  app.Launcher : Connection has been made
+14:01:41.297 INFO  app.Launcher : Connection has been made
+14:01:43.322 INFO  app.Launcher : Connection has been closed
+14:01:58.001 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:01:58.002 INFO  book.BookListViewController : double clicked 
+14:02:03.557 INFO  app.Launcher : Connection has been closed
+14:05:25.392 INFO  app.Launcher : Connection has been made
+14:06:11.421 INFO  app.Launcher : Connection has been closed
+14:08:37.051 INFO  app.Launcher : Connection has been made
+14:09:26.466 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:09:26.466 INFO  book.BookListViewController : double clicked 
+14:09:58.378 INFO  app.Launcher : Connection has been closed
+14:14:31.442 INFO  app.Launcher : Connection has been made
+14:14:36.729 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:14:36.730 INFO  book.BookListViewController : double clicked 
+14:14:39.789 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:15:50.842 INFO  app.Launcher : Connection has been closed
+14:15:53.419 INFO  app.Launcher : Connection has been made
+14:15:59.489 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:15:59.489 INFO  book.BookListViewController : double clicked 
+14:17:01.029 INFO  app.Launcher : Connection has been made
+14:17:08.956 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:17:08.957 INFO  book.BookListViewController : double clicked 
+14:17:18.961 INFO  app.Launcher : Connection has been closed
+14:17:25.376 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:17:25.376 INFO  book.BookListViewController : double clicked 
+14:23:40.513 INFO  app.Launcher : Connection has been closed
+14:28:14.696 INFO  app.Launcher : Connection has been made
+14:28:17.824 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:28:17.825 INFO  book.BookListViewController : double clicked 
+14:28:23.368 INFO  app.Launcher : Connection has been closed
+14:29:12.809 INFO  app.Launcher : Connection has been made
+14:29:16.259 INFO  book.BookListViewController : double clicked 
+14:29:21.222 INFO  app.Launcher : Connection has been closed
+14:29:28.445 INFO  app.Launcher : Connection has been made
+14:29:31.684 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:29:31.684 INFO  book.BookListViewController : double clicked 
+14:38:06.971 INFO  app.Launcher : Connection has been made
+14:38:09.468 INFO  app.Launcher : Connection has been closed
+14:38:13.798 INFO  app.Launcher : Connection has been made
+14:38:15.793 INFO  app.Launcher : Connection has been closed
+14:38:19.739 INFO  book.BookListViewController : double clicked 
+14:38:23.848 INFO  app.Launcher : Connection has been closed
+14:39:30.687 INFO  app.Launcher : Connection has been made
+14:39:36.239 INFO  book.BookListViewController : double clicked 
+14:40:59.668 INFO  app.Launcher : Connection has been closed
+14:41:09.459 INFO  app.Launcher : Connection has been made
+14:41:13.607 INFO  book.BookListViewController : double clicked 
+14:42:43.408 INFO  app.Launcher : Connection has been closed
+14:43:01.233 INFO  app.Launcher : Connection has been made
+14:43:05.483 INFO  book.BookListViewController : double clicked 
+14:43:59.994 INFO  book.bookDetailController : Save clicked
+15:03:10.095 INFO  app.Launcher : Connection has been closed
+12:12:34.397 INFO  app.Launcher : Connection has been made
+12:12:42.726 INFO  book.BookListViewController : double clicked 
+12:17:07.347 INFO  book.bookDetailController : Save clicked
+12:29:45.045 INFO  app.Launcher : Connection has been closed
+13:33:04.929 INFO  app.Launcher : Connection has been made
+13:33:11.049 INFO  book.BookListViewController : double clicked 
+13:33:22.635 INFO  book.bookDetailController : Save clicked
+13:33:22.726 INFO  database.BookTableGateway : The new book id is3
+13:36:07.048 INFO  app.Launcher : Connection has been closed
+13:36:18.514 INFO  app.Launcher : Connection has been made
+13:36:26.101 INFO  book.BookListViewController : double clicked 
+13:36:36.954 INFO  book.bookDetailController : Save clicked
+13:36:36.976 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(title, summary, year_published, ISBN, date_added)values ('Fake Book', 'This is ' at line 1
+13:40:04.590 INFO  app.Launcher : Connection has been closed
+13:40:55.259 INFO  app.Launcher : Connection has been made
+13:40:57.834 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:41:13.870 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:41:29.992 INFO  book.BookListViewController : double clicked 
+13:41:37.581 INFO  book.bookDetailController : Save clicked
+13:41:37.596 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Fake Book', summary = 'This is a story about a fake book.(Test)', year_publis' at line 1
+13:43:07.254 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:45:15.768 INFO  app.Launcher : Connection has been closed
+13:47:06.893 INFO  app.Launcher : Connection has been made
+13:47:09.170 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:55:30.224 INFO  app.Launcher : Connection has been closed
+13:55:35.353 INFO  app.Launcher : Connection has been made
+13:55:38.083 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+13:55:42.195 INFO  book.BookListViewController : double clicked 
+13:55:49.040 INFO  book.bookDetailController : Save clicked
+13:55:49.055 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Fake Book', summary = 'This is a story about a fake book.(TEst)', year_publis' at line 1
+13:57:47.288 INFO  app.Launcher : Connection has been closed
+13:57:52.928 INFO  app.Launcher : Connection has been made
+13:57:57.211 INFO  book.BookListViewController : double clicked 
+13:58:07.223 INFO  book.bookDetailController : Save clicked
+13:58:07.245 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Fake Book', summary = 'This is a story about a fake book.(Test)', year_publis' at line 1
+14:05:21.093 INFO  app.Launcher : Connection has been closed
+14:12:23.825 INFO  app.Launcher : Connection has been made
+14:12:26.450 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:12:30.640 INFO  book.BookListViewController : double clicked 
+14:12:37.368 INFO  book.bookDetailController : Save clicked
+14:12:37.384 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Fake Book', summary = 'This is a story about a fake book.(Test)', year_publis' at line 1
+14:12:43.343 INFO  app.Launcher : Connection has been closed
+14:31:58.595 INFO  app.Launcher : Connection has been made
+14:32:07.740 INFO  book.BookListViewController : double clicked 
+14:32:27.365 INFO  book.bookDetailController : Save clicked
+14:35:09.130 INFO  book.BookListViewController : double clicked 
+14:35:35.863 INFO  app.Launcher : Connection has been closed
+14:35:41.278 INFO  app.Launcher : Connection has been made
+14:35:44.386 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:36:26.446 INFO  app.Launcher : Connection has been closed
+14:36:29.542 INFO  app.Launcher : Connection has been made
+14:36:32.500 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:37:11.532 INFO  app.Launcher : Connection has been closed
+14:37:13.817 INFO  app.Launcher : Connection has been made
+14:37:17.618 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:37:29.324 INFO  app.Launcher : Connection has been closed
+14:40:56.563 INFO  app.Launcher : Connection has been made
+14:41:00.638 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:41:15.266 INFO  app.Launcher : Connection has been closed
+14:41:51.894 INFO  app.Launcher : Connection has been made
+14:41:55.506 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:42:00.182 INFO  app.Launcher : Connection has been closed
+14:42:25.838 INFO  app.Launcher : Connection has been made
+14:42:29.134 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:42:32.475 INFO  app.Launcher : Connection has been closed
+14:45:06.262 INFO  app.Launcher : Connection has been made
+14:45:10.875 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:50:53.586 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+14:52:15.640 INFO  book.BookListViewController : double clicked 
+14:54:14.453 INFO  app.Launcher : Connection has been closed
+14:54:17.236 INFO  app.Launcher : Connection has been made
+14:54:35.392 INFO  app.Launcher : Connection has been closed
+15:16:32.752 INFO  app.Launcher : Connection has been made
+15:16:35.848 ERROR menu.changeScreen : An error has occured when chaging to the book Detail screen.
+15:16:42.338 INFO  book.BookListViewController : double clicked 
+15:16:45.967 INFO  book.BookListViewController : double clicked 
+15:17:56.271 INFO  app.Launcher : Connection has been closed
+15:17:58.707 INFO  app.Launcher : Connection has been made
+15:23:16.412 INFO  app.Launcher : Connection has been closed
+15:23:19.015 INFO  app.Launcher : Connection has been made
+15:23:24.832 INFO  book.BookListViewController : double clicked 
+15:23:31.860 INFO  book.bookDetailController : Save clicked
+15:24:50.953 INFO  app.Launcher : Connection has been closed
+15:47:47.082 INFO  app.Launcher : Connection has been made
+15:47:52.943 INFO  book.BookListViewController : double clicked 
+15:48:01.482 INFO  book.bookDetailController : Save clicked
+15:53:19.424 INFO  app.Launcher : Connection has been closed
+15:53:23.144 INFO  app.Launcher : Connection has been made
+15:53:30.616 INFO  book.BookListViewController : double clicked 
+15:53:38.270 INFO  book.bookDetailController : Save clicked
+15:53:38.286 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id = 1' at line 1
+15:55:39.596 INFO  app.Launcher : Connection has been closed
+15:55:42.127 INFO  app.Launcher : Connection has been made
+15:55:45.653 INFO  book.BookListViewController : double clicked 
+15:55:51.921 INFO  book.bookDetailController : Save clicked
+15:55:51.937 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id = 1' at line 1
+15:57:22.025 INFO  app.Launcher : Connection has been made
+15:57:26.432 INFO  book.BookListViewController : double clicked 
+15:57:31.076 INFO  book.bookDetailController : Save clicked
+15:57:31.097 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id = 1' at line 1
+15:57:40.721 INFO  app.Launcher : Connection has been closed
+15:57:42.037 INFO  app.Launcher : Connection has been closed
+15:58:54.332 INFO  app.Launcher : Connection has been made
+15:58:57.668 INFO  book.BookListViewController : double clicked 
+15:58:59.535 INFO  book.bookDetailController : Save clicked
+15:58:59.536 INFO  database.BookTableGateway : update books set title = ?, summary = ?, year_published = ?, ISBN = ?, date_added = ?, where id = ? 
+15:58:59.551 ERROR database.BookTableGateway : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where id = 1' at line 1
+16:07:55.182 INFO  app.Launcher : Connection has been closed
+16:08:01.156 INFO  app.Launcher : Connection has been made
+16:08:06.019 INFO  book.BookListViewController : double clicked 
+16:08:10.680 INFO  book.bookDetailController : Save clicked
+16:08:10.680 INFO  database.BookTableGateway : update books set title = ?, summary = ?, year_published = ?, ISBN = ?, date_added = ?, where id = ? 
+16:08:10.692 ERROR database.BookTableGateway : java.sql.SQLException: No value specified for parameter 7
+16:08:28.515 INFO  app.Launcher : Connection has been made
+16:08:33.438 INFO  book.BookListViewController : double clicked 
+16:08:37.467 INFO  book.bookDetailController : Save clicked
+16:08:37.468 INFO  database.BookTableGateway : update books set title = ?, summary = ?, year_published = ?, ISBN = ?, date_added = ?, where id = ? 
+16:10:10.773 INFO  app.Launcher : Connection has been closed
+16:10:12.752 INFO  app.Launcher : Connection has been closed
+16:25:34.862 INFO  app.Launcher : Connection has been made
+16:27:16.380 INFO  book.bookDetailController : Save clicked
+16:31:25.391 INFO  app.Launcher : Connection has been made
+16:31:59.055 INFO  book.bookDetailController : Save clicked
+16:32:03.381 INFO  app.Launcher : Connection has been closed
+16:32:08.303 INFO  book.bookDetailController : Save clicked
+16:36:55.893 INFO  app.Launcher : Connection has been made
+16:37:27.959 INFO  book.bookDetailController : Save clicked
+16:40:26.741 INFO  app.Launcher : Connection has been closed
+16:40:31.558 INFO  app.Launcher : Connection has been made
+16:41:24.852 INFO  book.bookDetailController : Save clicked
+16:41:24.892 INFO  database.BookTableGateway : The new id is 4
+16:46:51.912 INFO  app.Launcher : Connection has been closed
+16:46:54.008 INFO  app.Launcher : Connection has been closed
+16:48:31.501 INFO  app.Launcher : Connection has been made
+16:48:36.397 INFO  book.BookListViewController : double clicked 
+16:48:43.249 INFO  book.bookDetailController : Save clicked
+16:48:48.298 INFO  book.BookListViewController : double clicked 
+16:48:53.379 INFO  book.bookDetailController : Save clicked
+16:49:34.794 INFO  app.Launcher : Connection has been closed
+17:00:38.024 INFO  app.Launcher : Connection has been made
+17:01:07.371 INFO  book.bookDetailController : Save clicked
+17:01:07.420 INFO  database.BookTableGateway : The new id is 5
+17:01:10.669 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+17:01:11.987 INFO  book.BookListViewController : Test Book Delete was clicked
+17:01:14.251 INFO  book.BookListViewController : The delete button was pressed
+17:06:06.141 INFO  app.Launcher : Connection has been made
+17:06:08.726 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+17:06:09.529 INFO  book.BookListViewController : Test Book Delete was clicked
+17:06:10.969 INFO  book.BookListViewController : The delete button was pressed
+17:08:05.790 INFO  app.Launcher : Connection has been closed
+17:08:07.409 INFO  app.Launcher : Connection has been closed
+17:08:12.010 INFO  app.Launcher : Connection has been made
+17:08:14.439 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+17:08:15.313 INFO  book.BookListViewController : Test Book Delete was clicked
+17:08:19.514 INFO  book.BookListViewController : The delete button was pressed
+17:12:16.078 INFO  app.Launcher : Connection has been closed
+16:10:24.873 INFO  app.Launcher : Connection has been made
+16:10:27.578 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:10:28.596 INFO  book.BookListViewController : Test Book Delete was clicked
+16:10:30.020 INFO  book.BookListViewController : The delete button was pressed
+16:18:27.165 INFO  app.Launcher : Connection has been closed
+16:19:04.669 INFO  app.Launcher : Connection has been made
+16:19:06.807 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:19:11.225 INFO  book.BookListViewController : Test Book Delete was clicked
+16:19:15.137 INFO  book.BookListViewController : The delete button was pressed
+16:19:15.138 INFO  book.BookListViewController : The gateway is: null
+16:23:44.379 INFO  app.Launcher : Connection has been closed
+16:23:47.451 INFO  app.Launcher : Connection has been made
+16:23:50.705 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:23:53.347 INFO  book.BookListViewController : Fake Book was clicked
+16:23:53.507 INFO  book.BookListViewController : Fake Book was clicked
+16:23:53.668 INFO  book.BookListViewController : double clicked 
+16:23:57.952 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:23:58.971 INFO  book.BookListViewController : Fake Book 2 was clicked
+16:23:59.123 INFO  book.BookListViewController : Fake Book 2 was clicked
+16:23:59.133 INFO  book.BookListViewController : double clicked 
+16:24:01.886 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:24:02.740 INFO  book.BookListViewController : Test Book Delete was clicked
+16:24:03.692 INFO  book.BookListViewController : The delete button was pressed
+16:24:03.693 INFO  book.BookListViewController : The gateway is: null
+16:27:01.682 INFO  app.Launcher : Connection has been closed
+16:27:04.942 INFO  app.Launcher : Connection has been made
+16:27:07.492 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:27:09.275 INFO  book.BookListViewController : Fake Book was clicked
+16:27:09.460 INFO  book.BookListViewController : Fake Book was clicked
+16:27:09.493 INFO  book.BookListViewController : double clicked 
+16:27:12.368 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test Book Delete]
+16:27:13.612 INFO  book.BookListViewController : Test Book Delete was clicked
+16:27:19.051 INFO  book.BookListViewController : The delete button was pressed
+16:27:19.052 INFO  book.BookListViewController : The gateway is: database.BookTableGateway@436f459e
+16:27:25.345 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:27:51.511 INFO  book.bookDetailController : Save clicked
+16:27:51.561 INFO  database.BookTableGateway : The new id is 6
+16:27:55.338 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test]
+16:27:57.632 INFO  book.BookListViewController : Fake Book was clicked
+16:27:57.784 INFO  book.BookListViewController : Fake Book was clicked
+16:27:57.791 INFO  book.BookListViewController : double clicked 
+16:28:03.241 INFO  book.bookDetailController : Save clicked
+16:28:06.436 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book(Test), Fake Book 2, Fake Book 3, Test]
+16:28:08.065 INFO  book.BookListViewController : Fake Book(Test) was clicked
+16:28:08.242 INFO  book.BookListViewController : Fake Book(Test) was clicked
+16:28:08.248 INFO  book.BookListViewController : double clicked 
+16:28:12.618 INFO  book.bookDetailController : Save clicked
+16:28:17.174 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test]
+16:28:19.395 INFO  book.BookListViewController : Test was clicked
+16:28:20.339 INFO  book.BookListViewController : The delete button was pressed
+16:28:20.339 INFO  book.BookListViewController : The gateway is: database.BookTableGateway@6fd0acf2
+16:28:22.012 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:29:27.155 INFO  app.Launcher : Connection has been closed
+16:29:32.634 INFO  app.Launcher : Connection has been made
+16:29:34.883 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:29:55.142 INFO  book.bookDetailController : Save clicked
+16:29:55.184 INFO  database.BookTableGateway : The new id is 7
+16:29:58.425 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3, Test]
+16:29:59.807 INFO  book.BookListViewController : Test was clicked
+16:30:00.951 INFO  book.BookListViewController : The delete button was pressed
+16:30:00.952 INFO  book.BookListViewController : The gateway is: database.BookTableGateway@3be68b11
+16:30:06.137 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:32:27.240 INFO  app.Launcher : Connection has been closed
+14:42:42.050 FATAL app.Launcher : Error: cannot connect to database
+14:43:19.655 FATAL app.Launcher : Error: cannot connect to database
+14:43:59.795 INFO  app.Launcher : Connection has been made
+14:47:28.181 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+15:24:51.121 INFO  app.Launcher : Connection has been made
+15:35:25.046 INFO  app.Launcher : Connection has been made
+15:35:26.500 INFO  app.Launcher : Connection has been made
+15:35:31.459 INFO  app.Launcher : Connection has been closed
+15:35:35.639 INFO  app.Launcher : Connection has been closed
+15:55:42.653 INFO  app.Launcher : Connection has been made
+15:56:09.725 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:07:42.950 INFO  book.BookListViewController : Fake Book was clicked
+16:07:43.126 INFO  book.BookListViewController : Fake Book was clicked
+16:07:43.270 INFO  book.BookListViewController : double clicked 
+16:14:10.101 INFO  app.Launcher : Connection has been closed
+16:57:45.811 INFO  app.Launcher : Connection has been made
+16:57:48.801 INFO  book.BookListViewController : The value of tempbooks is: [Fake Book, Fake Book 2, Fake Book 3]
+16:57:49.597 INFO  book.BookListViewController : Fake Book was clicked
+16:57:49.740 INFO  book.BookListViewController : Fake Book was clicked
+16:57:49.777 INFO  book.BookListViewController : double clicked 
+16:58:11.288 INFO  app.Launcher : Connection has been closed
+08:25:14.210 INFO  app.Launcher : Connection has been made
+08:26:41.067 INFO  app.Launcher : Connection has been closed
+08:26:45.148 INFO  app.Launcher : Connection has been made
+08:27:37.274 INFO  app.Launcher : Connection has been closed
+08:27:45.932 INFO  app.Launcher : Connection has been made
+08:27:48.155 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert.]
+08:27:50.886 INFO  book.BookListViewController : The Legend of Robert. was clicked
+08:27:51.027 INFO  book.BookListViewController : The Legend of Robert. was clicked
+08:27:51.066 INFO  book.BookListViewController : double clicked 
+08:28:12.789 INFO  book.bookDetailController : Save clicked
+08:28:18.205 INFO  app.Launcher : Connection has been closed
+08:28:23.633 INFO  app.Launcher : Connection has been made
+08:28:55.865 INFO  book.bookDetailController : Save clicked
+08:28:55.949 INFO  database.BookTableGateway : The new id is 2
+08:29:00.873 INFO  app.Launcher : Connection has been closed
+08:29:06.351 INFO  app.Launcher : Connection has been made
+08:29:09.566 INFO  app.Launcher : Connection has been closed
+08:34:21.797 INFO  app.Launcher : Connection has been made
+08:34:24.215 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns]
+08:34:26.687 INFO  app.Launcher : Connection has been closed
+16:56:24.021 INFO  app.Launcher : Connection has been made
+16:56:27.827 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns]
+16:56:29.327 INFO  book.BookListViewController : Smallville Returns was clicked
+16:56:29.463 INFO  book.BookListViewController : Smallville Returns was clicked
+16:56:29.511 INFO  book.BookListViewController : double clicked 
+16:56:48.438 INFO  app.Launcher : Connection has been closed
+20:28:03.333 INFO  app.Launcher : Connection has been made
+20:28:06.208 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns]
+20:28:07.322 INFO  book.BookListViewController : Smallville Returns was clicked
+20:28:07.452 INFO  book.BookListViewController : Smallville Returns was clicked
+20:28:07.490 INFO  book.BookListViewController : double clicked 
+20:28:13.622 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns]
+20:29:00.231 INFO  book.bookDetailController : Save clicked
+20:29:00.296 INFO  database.BookTableGateway : The new id is 3
+20:29:04.362 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+20:29:06.022 INFO  book.BookListViewController : John Carter of Mars was clicked
+20:29:06.176 INFO  book.BookListViewController : John Carter of Mars was clicked
+20:29:06.184 INFO  book.BookListViewController : double clicked 
+20:29:08.996 INFO  app.Launcher : Connection has been closed
+20:42:57.328 INFO  app.Launcher : Connection has been made
+20:43:01.284 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+20:43:03.656 INFO  book.BookListViewController : John Carter of Mars was clicked
+20:43:03.809 INFO  book.BookListViewController : John Carter of Mars was clicked
+20:43:03.851 INFO  book.BookListViewController : double clicked 
+20:43:06.817 INFO  app.Launcher : Connection has been closed
