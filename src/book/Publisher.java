@@ -1,5 +1,6 @@
 package book;
-
+//Publisher class 
+// will have to store database info later.
 public class Publisher {
 	private int id;
 	private String publisherName;
