@@ -8,6 +8,7 @@ public class Publisher {
 		this.id = id;
 		this.publisherName = publisherName;
 	}
+	//getters and setters
 	public int getId() {
 		return id;
 	}
