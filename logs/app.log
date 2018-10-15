@@ -543,3 +543,58 @@
 20:43:03.809 INFO  book.BookListViewController : John Carter of Mars was clicked
 20:43:03.851 INFO  book.BookListViewController : double clicked 
 20:43:06.817 INFO  app.Launcher : Connection has been closed
+11:57:23.131 INFO  app.Launcher : Connection has been made
+11:57:25.758 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+11:57:27.552 INFO  book.BookListViewController : The Legend of Robert. was clicked
+11:57:27.679 INFO  book.BookListViewController : The Legend of Robert. was clicked
+11:57:27.732 INFO  book.BookListViewController : double clicked 
+11:57:32.735 INFO  app.Launcher : Connection has been closed
+12:55:35.817 INFO  app.Launcher : Connection has been made
+12:55:40.740 INFO  app.Launcher : Connection has been closed
+12:58:38.549 INFO  app.Launcher : Connection has been made
+12:58:42.551 INFO  app.Launcher : Connection has been closed
+12:59:43.261 INFO  app.Launcher : Connection has been made
+12:59:45.906 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+12:59:47.395 INFO  app.Launcher : Connection has been closed
+13:01:12.436 INFO  app.Launcher : Connection has been made
+13:01:14.786 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+13:01:16.185 INFO  app.Launcher : Connection has been closed
+13:03:40.970 INFO  app.Launcher : Connection has been made
+13:03:43.812 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+13:03:45.612 INFO  app.Launcher : Connection has been closed
+13:04:29.603 INFO  app.Launcher : Connection has been made
+13:04:32.514 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+13:04:33.861 INFO  app.Launcher : Connection has been closed
+13:06:19.915 INFO  app.Launcher : Connection has been made
+13:06:22.008 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+13:06:22.009 INFO  database.publisherTableGateway : Did it get inside the fetchPublisher
+
+13:06:22.014 INFO  book.BookListViewController : *** Check. publisher list is [The CS Lab, unknown]
+13:06:22.030 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+13:06:24.936 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:06:25.069 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:06:25.112 INFO  book.BookListViewController : double clicked 
+13:06:41.966 INFO  book.BookListViewController : BookListViewController. publisherList catch?
+13:06:41.967 INFO  database.publisherTableGateway : Did it get inside the fetchPublisher
+
+13:06:41.971 INFO  book.BookListViewController : *** Check. publisher list is [The CS Lab, unknown]
+13:06:41.977 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+13:06:42.921 INFO  book.BookListViewController : The Legend of Robert. was clicked
+13:06:43.039 INFO  book.BookListViewController : The Legend of Robert. was clicked
+13:06:43.050 INFO  book.BookListViewController : double clicked 
+13:06:47.721 INFO  app.Launcher : Connection has been closed
+13:14:07.215 INFO  app.Launcher : Connection has been made
+13:14:10.104 INFO  database.publisherTableGateway : Did it get inside the fetchPublisher
+
+13:14:10.124 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+13:14:11.411 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:14:11.554 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:14:11.591 INFO  book.BookListViewController : double clicked 
+13:14:20.719 INFO  book.bookDetailController : Save clicked
+13:14:25.380 INFO  database.publisherTableGateway : Did it get inside the fetchPublisher
+
+13:14:25.392 INFO  book.BookListViewController : The value of tempbooks is: [The Legend of Robert., Smallville Returns, John Carter of Mars]
+13:14:26.723 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:14:26.859 INFO  book.BookListViewController : John Carter of Mars was clicked
+13:14:26.871 INFO  book.BookListViewController : double clicked 
+13:14:30.010 INFO  app.Launcher : Connection has been closed

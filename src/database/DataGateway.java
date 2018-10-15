@@ -2,6 +2,7 @@ package database;
 
 import java.sql.Connection;
 
+//DataGateway class. Singleton, handles connection to DB stuff.
 public class DataGateway {
 	private static DataGateway instance = null;
 	
@@ -10,9 +11,6 @@ public class DataGateway {
 	private DataGateway() {
 		
 	}
-	
-	
-	//Fetch list of authorized users
 	
 	public static DataGateway getInstance() {
 		if(instance == null)

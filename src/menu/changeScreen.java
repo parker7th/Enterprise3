@@ -11,12 +11,13 @@ import org.apache.logging.log4j.Logger;
 import book.BookListViewController;
 import book.bookDetailController;
 import book.Book;
+import database.publisherTableGateway;
 import database.BookTableGateway;
 import database.DataGateway;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.layout.BorderPane;
-
+//changeScreen class.
 public class changeScreen {
 	
 	private static Logger logger = LogManager.getLogger();
@@ -32,11 +33,12 @@ public class changeScreen {
 			try {
 				URL scene = getClass().getResource("/book/BookPage.fxml/");
 				FXMLLoader loader = new FXMLLoader(scene);
-				
+				//2 connection types for 2 tables. 
 				BookTableGateway gateway = new BookTableGateway(DataGateway.getInstance().getConnection());
+				publisherTableGateway pGateway = new publisherTableGateway(DataGateway.getInstance().getConnection());
 				//List<Book> books = gateway.fetchBooks();
 				
-				loader.setController(new BookListViewController(gateway));
+				loader.setController(new BookListViewController(gateway, pGateway));//2 gateway for 2 menus.
 				Node bookPane = loader.load();
 				menuBorderPane.setCenter(bookPane);
 			} catch(IOException e) {

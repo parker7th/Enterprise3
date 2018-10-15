@@ -17,7 +17,7 @@ import book.Book;
 //import java.util.Properties;
 //import java.sql.PreparedStatement;
 
-
+//DateGateway specifically for Books and the DB BookList Table.
 public class BookTableGateway {
 	private Connection conn;
 	private static Logger logger = LogManager.getLogger();
@@ -25,8 +25,10 @@ public class BookTableGateway {
 	public BookTableGateway(Connection conn) {
 		this.conn = conn;
 	}
-
+	//insertBooks - inserts a book object and it's data
+	// into the DB BookList table. 
 	public void insertBook(Book book) throws SQLException {
+		//prepare statement for SQL command.
 		PreparedStatement st = conn.prepareStatement("insert into BookList "
 				+" (title, summary, year_published, ISBN, date_added) "
 				+ " values (?, ?, ?, ?, ?) ", PreparedStatement.RETURN_GENERATED_KEYS);
@@ -35,11 +37,11 @@ public class BookTableGateway {
 		st.setString(3, book.getYearPublished());
 		st.setString(4, book.getIsbn());
 		st.setString(5, book.getDateAdded().toString());
-		st.executeUpdate();
+		st.executeUpdate();//execute the prepared statement(SQL).
 		
-		ResultSet rs = st.getGeneratedKeys();
-		rs.first();
-		book.setId(rs.getInt(1));
+		ResultSet rs = st.getGeneratedKeys();//store the result from SQL commands.
+		rs.first();//get 'first row' of the result set (stuff fromDB)
+		book.setId(rs.getInt(1));//get book id value(id) and store in book object
 		
 		logger.info("The new id is " + book.getId());
 		rs.close();

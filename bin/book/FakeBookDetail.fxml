@@ -51,7 +51,7 @@
             <Font size="23.0" />
          </font>
       </Label>
-      <ChoiceBox layoutX="276.0" layoutY="182.0" prefHeight="27.0" prefWidth="199.0" />
+      <ChoiceBox fx:id="publisherChoiceBox" layoutX="276.0" layoutY="182.0" prefHeight="27.0" prefWidth="199.0" />
       <Button fx:id="bookAuditButton" layoutX="343.0" layoutY="316.0" mnemonicParsing="false" onAction="#onAuditClick" prefHeight="29.0" prefWidth="101.0" text="Audit Trail">
          <font>
             <Font size="15.0" />

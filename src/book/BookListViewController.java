@@ -9,6 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import database.BookTableGateway;
+import database.publisherTableGateway;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
@@ -22,24 +23,39 @@ import menu.changeScreen;
 
 public class BookListViewController implements Initializable{
 	
+	//implement a SingleTon pattern.
+	private static BookListViewController instance = null;
+	public static BookListViewController getInstance(){
+		return instance;
+	}
+	
 	private static Logger logger = LogManager.getLogger();
 	private BookTableGateway gateway;
+	private publisherTableGateway publisherTableGateway;
 	
 	 @FXML
 	 private ListView<Book> BookListView;
-	 //private List<String> listData;
-	 private List<Book> listData;
+	 //private List<String> bookListData;
+	 private List<Book> bookListData;
 	 @FXML
 	 	private Label pageIdentifier;
 	 
-	 public BookListViewController(BookTableGateway gateway) throws SQLException {
+	 @FXML
+	 public List<Publisher> publisherList;
+	 
+	 public BookListViewController(BookTableGateway gateway, publisherTableGateway publisherGateway) throws SQLException {
 		 this.gateway = gateway;
-		 listData = this.gateway.fetchBooks();
+		 this.publisherTableGateway = publisherGateway;
+		 bookListData = this.gateway.fetchBooks();
+		 publisherList = this.publisherTableGateway.fetchPublishers();
+		 instance = this; //instance of the singleton. 
+		 
 	 }
 	 
 	 public BookListViewController(List<Book> books) {
 		// TODO Auto-generated constructor stub
-		this.listData = books;
+		this.bookListData = books;
+		instance = this;
 		
 	}
 
@@ -70,7 +86,7 @@ public class BookListViewController implements Initializable{
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
 		//create data
-		ObservableList<Book> tempBooks = FXCollections.observableArrayList(listData);
+		ObservableList<Book> tempBooks = FXCollections.observableArrayList(bookListData);
 		logger.info("The value of tempbooks is: " + tempBooks);
 		
 		BookListView.setItems(tempBooks);
